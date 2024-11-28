@@ -1,2 +1,2 @@
-# MSc-NLP-Project
-MSc Group Project in Natural Language Processing (NLP)
+# MSc Group Project in Natural Language Processing (NLP)
+This study compares the performance of BERT, RoBERTa, BERTTweet, and PHS-BERT in identifying depression symptoms in text through multilabel classification.
